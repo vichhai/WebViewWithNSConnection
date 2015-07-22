@@ -13,6 +13,28 @@
 		ED42B0E81B145455005A3395 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED42B0E71B145455005A3395 /* Images.xcassets */; };
 		ED42B0EB1B145455005A3395 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ED42B0E91B145455005A3395 /* LaunchScreen.xib */; };
 		ED42B0F71B145455005A3395 /* UIWebViewWithNSConnectionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED42B0F61B145455005A3395 /* UIWebViewWithNSConnectionTests.swift */; };
+		ED42B1041B145900005A3395 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = ED42B1031B145900005A3395 /* MBProgressHUD.m */; };
+		ED42B1051B145900005A3395 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = ED42B1031B145900005A3395 /* MBProgressHUD.m */; };
+		ED42B1071B145F17005A3395 /* Devices.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED42B1061B145F17005A3395 /* Devices.swift */; };
+		ED42B1081B145F17005A3395 /* Devices.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED42B1061B145F17005A3395 /* Devices.swift */; };
+		ED78C1B71B2EC09700716235 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = ED78C1B61B2EC09700716235 /* Reachability.m */; };
+		ED78C1B81B2EC09700716235 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = ED78C1B61B2EC09700716235 /* Reachability.m */; };
+		ED78C1BA1B2EC46400716235 /* IJReachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED78C1B91B2EC46400716235 /* IJReachability.swift */; };
+		ED78C1BB1B2EC46400716235 /* IJReachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED78C1B91B2EC46400716235 /* IJReachability.swift */; };
+		ED78C1C31B2EC9E200716235 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED78C1C21B2EC9E200716235 /* ImageViewController.swift */; };
+		ED78C1C41B2EC9E200716235 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED78C1C21B2EC9E200716235 /* ImageViewController.swift */; };
+		ED78C1CC1B2ECC6E00716235 /* 01.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1C81B2ECC6E00716235 /* 01.tiff */; };
+		ED78C1CD1B2ECC6E00716235 /* 01.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1C81B2ECC6E00716235 /* 01.tiff */; };
+		ED78C1CE1B2ECC6E00716235 /* 02.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1C91B2ECC6E00716235 /* 02.tiff */; };
+		ED78C1CF1B2ECC6E00716235 /* 02.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1C91B2ECC6E00716235 /* 02.tiff */; };
+		ED78C1D01B2ECC6E00716235 /* 03.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1CA1B2ECC6E00716235 /* 03.tiff */; };
+		ED78C1D11B2ECC6E00716235 /* 03.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1CA1B2ECC6E00716235 /* 03.tiff */; };
+		ED78C1D21B2ECC6E00716235 /* 04.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1CB1B2ECC6E00716235 /* 04.tiff */; };
+		ED78C1D31B2ECC6E00716235 /* 04.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1CB1B2ECC6E00716235 /* 04.tiff */; };
+		ED78C1D61B2ECD1B00716235 /* 05.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1D41B2ECD1B00716235 /* 05.tiff */; };
+		ED78C1D71B2ECD1B00716235 /* 05.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1D41B2ECD1B00716235 /* 05.tiff */; };
+		ED78C1D81B2ECD1B00716235 /* 06.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1D51B2ECD1B00716235 /* 06.tiff */; };
+		ED78C1D91B2ECD1B00716235 /* 06.tiff in Resources */ = {isa = PBXBuildFile; fileRef = ED78C1D51B2ECD1B00716235 /* 06.tiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +58,21 @@
 		ED42B0F01B145455005A3395 /* UIWebViewWithNSConnectionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIWebViewWithNSConnectionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED42B0F51B145455005A3395 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED42B0F61B145455005A3395 /* UIWebViewWithNSConnectionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIWebViewWithNSConnectionTests.swift; sourceTree = "<group>"; };
+		ED42B1001B1458FF005A3395 /* UIWebViewWithNSConnection-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIWebViewWithNSConnection-Bridging-Header.h"; sourceTree = "<group>"; };
+		ED42B1011B1458FF005A3395 /* UIWebViewWithNSConnectionTests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIWebViewWithNSConnectionTests-Bridging-Header.h"; sourceTree = "<group>"; };
+		ED42B1021B145900005A3395 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		ED42B1031B145900005A3395 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		ED42B1061B145F17005A3395 /* Devices.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Devices.swift; sourceTree = "<group>"; };
+		ED78C1B51B2EC09700716235 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		ED78C1B61B2EC09700716235 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		ED78C1B91B2EC46400716235 /* IJReachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IJReachability.swift; sourceTree = "<group>"; };
+		ED78C1C21B2EC9E200716235 /* ImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		ED78C1C81B2ECC6E00716235 /* 01.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 01.tiff; sourceTree = "<group>"; };
+		ED78C1C91B2ECC6E00716235 /* 02.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 02.tiff; sourceTree = "<group>"; };
+		ED78C1CA1B2ECC6E00716235 /* 03.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 03.tiff; sourceTree = "<group>"; };
+		ED78C1CB1B2ECC6E00716235 /* 04.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 04.tiff; sourceTree = "<group>"; };
+		ED78C1D41B2ECD1B00716235 /* 05.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 05.tiff; sourceTree = "<group>"; };
+		ED78C1D51B2ECD1B00716235 /* 06.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = 06.tiff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,12 +114,19 @@
 		ED42B0DD1B145455005A3395 /* UIWebViewWithNSConnection */ = {
 			isa = PBXGroup;
 			children = (
+				ED78C1B91B2EC46400716235 /* IJReachability.swift */,
 				ED42B0E01B145455005A3395 /* AppDelegate.swift */,
 				ED42B0E21B145455005A3395 /* ViewController.swift */,
+				ED42B1061B145F17005A3395 /* Devices.swift */,
+				ED42B1021B145900005A3395 /* MBProgressHUD.h */,
+				ED42B1031B145900005A3395 /* MBProgressHUD.m */,
 				ED42B0E41B145455005A3395 /* Main.storyboard */,
+				ED78C1C21B2EC9E200716235 /* ImageViewController.swift */,
 				ED42B0E71B145455005A3395 /* Images.xcassets */,
 				ED42B0E91B145455005A3395 /* LaunchScreen.xib */,
 				ED42B0DE1B145455005A3395 /* Supporting Files */,
+				ED42B1001B1458FF005A3395 /* UIWebViewWithNSConnection-Bridging-Header.h */,
+				ED42B1011B1458FF005A3395 /* UIWebViewWithNSConnectionTests-Bridging-Header.h */,
 			);
 			path = UIWebViewWithNSConnection;
 			sourceTree = "<group>";
@@ -90,6 +134,14 @@
 		ED42B0DE1B145455005A3395 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				ED78C1C81B2ECC6E00716235 /* 01.tiff */,
+				ED78C1C91B2ECC6E00716235 /* 02.tiff */,
+				ED78C1CA1B2ECC6E00716235 /* 03.tiff */,
+				ED78C1CB1B2ECC6E00716235 /* 04.tiff */,
+				ED78C1D41B2ECD1B00716235 /* 05.tiff */,
+				ED78C1D51B2ECD1B00716235 /* 06.tiff */,
+				ED78C1B51B2EC09700716235 /* Reachability.h */,
+				ED78C1B61B2EC09700716235 /* Reachability.m */,
 				ED42B0DF1B145455005A3395 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +247,12 @@
 				ED42B0E61B145455005A3395 /* Main.storyboard in Resources */,
 				ED42B0EB1B145455005A3395 /* LaunchScreen.xib in Resources */,
 				ED42B0E81B145455005A3395 /* Images.xcassets in Resources */,
+				ED78C1D61B2ECD1B00716235 /* 05.tiff in Resources */,
+				ED78C1D21B2ECC6E00716235 /* 04.tiff in Resources */,
+				ED78C1D01B2ECC6E00716235 /* 03.tiff in Resources */,
+				ED78C1D81B2ECD1B00716235 /* 06.tiff in Resources */,
+				ED78C1CE1B2ECC6E00716235 /* 02.tiff in Resources */,
+				ED78C1CC1B2ECC6E00716235 /* 01.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,6 +260,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED78C1D91B2ECD1B00716235 /* 06.tiff in Resources */,
+				ED78C1D11B2ECC6E00716235 /* 03.tiff in Resources */,
+				ED78C1CF1B2ECC6E00716235 /* 02.tiff in Resources */,
+				ED78C1D71B2ECD1B00716235 /* 05.tiff in Resources */,
+				ED78C1D31B2ECC6E00716235 /* 04.tiff in Resources */,
+				ED78C1CD1B2ECC6E00716235 /* 01.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,7 +277,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED42B0E31B145455005A3395 /* ViewController.swift in Sources */,
+				ED42B1041B145900005A3395 /* MBProgressHUD.m in Sources */,
 				ED42B0E11B145455005A3395 /* AppDelegate.swift in Sources */,
+				ED78C1C31B2EC9E200716235 /* ImageViewController.swift in Sources */,
+				ED78C1BA1B2EC46400716235 /* IJReachability.swift in Sources */,
+				ED42B1071B145F17005A3395 /* Devices.swift in Sources */,
+				ED78C1B71B2EC09700716235 /* Reachability.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +291,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED42B0F71B145455005A3395 /* UIWebViewWithNSConnectionTests.swift in Sources */,
+				ED42B1051B145900005A3395 /* MBProgressHUD.m in Sources */,
+				ED78C1BB1B2EC46400716235 /* IJReachability.swift in Sources */,
+				ED78C1B81B2EC09700716235 /* Reachability.m in Sources */,
+				ED78C1C41B2EC9E200716235 /* ImageViewController.swift in Sources */,
+				ED42B1081B145F17005A3395 /* Devices.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,9 +414,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = UIWebViewWithNSConnection/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "UIWebViewWithNSConnection/UIWebViewWithNSConnection-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -350,9 +428,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = UIWebViewWithNSConnection/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "UIWebViewWithNSConnection/UIWebViewWithNSConnection-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -360,6 +441,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -371,6 +453,8 @@
 				INFOPLIST_FILE = UIWebViewWithNSConnectionTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "UIWebViewWithNSConnection/UIWebViewWithNSConnectionTests-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIWebViewWithNSConnection.app/UIWebViewWithNSConnection";
 			};
 			name = Debug;
@@ -379,6 +463,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -386,6 +471,7 @@
 				INFOPLIST_FILE = UIWebViewWithNSConnectionTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "UIWebViewWithNSConnection/UIWebViewWithNSConnectionTests-Bridging-Header.h";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIWebViewWithNSConnection.app/UIWebViewWithNSConnection";
 			};
 			name = Release;
@@ -409,6 +495,7 @@
 				ED42B0FC1B145455005A3395 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ED42B0FD1B145455005A3395 /* Build configuration list for PBXNativeTarget "UIWebViewWithNSConnectionTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +504,7 @@
 				ED42B0FF1B145455005A3395 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
